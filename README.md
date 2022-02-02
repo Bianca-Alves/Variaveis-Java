@@ -1,2 +1,2 @@
 # Variaveis-Java
-10 exercícios para a fixação do conceito sobre variáveis na linguagem Java.
+10 exercícios para a fixação do conceito sobre Variáveis na linguagem Java.
